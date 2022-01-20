@@ -9,10 +9,6 @@ export default function DiscoverMovies() {
       <div className="discover-wrapper scroll-wrapper pb-5">
         <DiscoverItem id={597891} />
         <DiscoverItem id={619297} />
-        <DiscoverItem id={508943} />
-        <DiscoverItem id={588228} />
-        <DiscoverItem id={637534} />
-        <DiscoverItem id={525660} />
       </div>
     </div>
   );
