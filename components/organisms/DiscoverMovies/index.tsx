@@ -7,12 +7,12 @@ export default function DiscoverMovies() {
         <h2 className="fw-bold">Discover</h2>
       </div>
       <div className="discover-wrapper scroll-wrapper pb-5">
-        <DiscoverItem id={597895} />
-        <DiscoverItem id={619296} />
-        <DiscoverItem id={508941} />
-        <DiscoverItem id={588227} />
-        <DiscoverItem id={635532} />
-        <DiscoverItem id={525661} />
+        <DiscoverItem id={587891} />
+        <DiscoverItem id={619297} />
+        <DiscoverItem id={508943} />
+        <DiscoverItem id={588228} />
+        <DiscoverItem id={635534} />
+        <DiscoverItem id={525660} />
       </div>
     </div>
   );
