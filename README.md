@@ -35,7 +35,7 @@ If you want to try to do the development process, make sure your device has inst
 You can download this repository by clicking `Code` at the top, then selecting `Download ZIP` or if you want to clone this repository you can do this by
 
 ```bash
-git clone https://github.com/thekaranchauhan/moviepedia.git
+git clone https://github.com/thekaranchauhan/moviepedia_nextjs.git
 ```
 
 After that, install all the packages / dependencies contained in this project
