@@ -1,3 +1,8 @@
+
+## Demo
+
+You can see a demo of this website at [moviepedia-beta.vercel.app/](https://moviepedia-beta.vercel.app/)
+
 # MOVIEPEDIA
 
 ![Design preview WhatMovie](./moviepedia1.png)
@@ -47,7 +52,4 @@ npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) in the browser you are using to see the results.
 
-## Demo
-
-You can see a demo of this website at [moviepedia-beta.vercel.app/](https://moviepedia-beta.vercel.app/)
 
