@@ -67,9 +67,6 @@ const Footer: React.FC = () => {
           <FooterLink href='https://instagram.com/thekaranchauhan' target='_blank'>
             <Icons.Instagram />
           </FooterLink>
-          <FooterLink href='https://dribbble.com/thekaranchauhan' target='_blank'>
-            <Icons.Dribbble />
-          </FooterLink>
           <FooterLink href='https://codepen.io/thekaranchauhan' target='_blank'>
             <Icons.Codepen />
           </FooterLink>
