@@ -1,7 +1,6 @@
 import { useEffect } from 'react';
 import LoadingPage from '../components/atoms/LoadingPage.tsx';
 import CategoryMovies from '../components/organisms/CategoryMovies';
-import DiscoverMovies from '../components/organisms/DiscoverMovies';
 import Footer from '../components/organisms/Footer';
 import Movies from '../components/organisms/Movies';
 import TrendingMovies from '../components/organisms/TrendingMovies';
@@ -19,7 +18,6 @@ export default function index() {
       <div className="preloader">
         <LoadingPage />
       </div>
-      <DiscoverMovies />
       <CategoryMovies />
       <TrendingMovies />
       <Movies />
