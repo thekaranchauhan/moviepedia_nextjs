@@ -1,4 +1,4 @@
-# WhatMovie
+# MOVIEPEDIA
 
 ![Design preview WhatMovie](./moviepedia1.png)
 
