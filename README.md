@@ -5,7 +5,7 @@ You can see a demo of this website at [moviepedia-beta.vercel.app/](https://movi
 
 # MOVIEPEDIA
 
-![Design preview WhatMovie](./moviepedia1.png)
+![Design preview Moviepedia](./moviepedia1.png)
 
 ## Description
 
